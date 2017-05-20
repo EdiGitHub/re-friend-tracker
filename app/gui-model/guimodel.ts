@@ -63,7 +63,7 @@
                             "type": "okButton",
                             "name": "Ok"
                         }
-{
+,{
 "id":   "group",
 "type": "autocomplete",
 "name": "Group",
@@ -132,7 +132,7 @@
                             "type": "okButton",
                             "name": "Ok"
                         }
-{
+,{
 "id":   "group",
 "type": "autocomplete",
 "name": "Group",
@@ -167,7 +167,7 @@
 		}
 		]
 		}
-                {
+                ,{
                     "id": "LocationForm",
                     "title": "Location",
                     "formFieldList": [
@@ -192,7 +192,7 @@
                         }
                     ]
                 }
-                {
+                ,{
                     "id": "ActivityForm",
                     "title": "Activity",
                     "formFieldList": [
@@ -337,7 +337,7 @@
                         },
                     ]
                 }
-		{
+		,{
 "id": "groupspage",
 "elementList": [
 {
@@ -352,7 +352,7 @@
 "form": "GroupForm"
 }
 }
-{
+,{
 "type": "list",
 "icon": "fa-weixin",
 "color": "wisteria",
